@@ -1,0 +1,24 @@
+Architectures: amd64 all
+Codename: hatsune
+Components: main
+Date: Fri, 16 Oct 2026 15:46:29 +0000
+Description: SekaiOS packages
+Label: SekaiOS
+Origin: SekaiOS
+Suite: hatsune
+MD5Sum:
+ 257c0d9ff3f503afc65ddbf27f1ce910              174 Release
+ 46c7c120029ecdf52bb717898cdf31ae            30268 main/binary-amd64/Packages
+ 371b5eb149150128ed2d7d23da4b833b            10968 main/binary-amd64/Packages.gz
+SHA1:
+ a3fc799053af3852a73ea91c67b3ba3b88a70225              174 Release
+ b1ca5fa10d1744c61aeee7f7a18220797a55d640            30268 main/binary-amd64/Packages
+ ddeaed5aeefa5533acfada0077301d2b7a3377fa            10968 main/binary-amd64/Packages.gz
+SHA256:
+ 136363663154992f725ca85def20d17d366a8f05906c3ae6489a7880c6bf3239              174 Release
+ 1d6ec2f1580cd7bd19091b0193b31ad72135d411d0da15a6f2c80e9f5e107b72            30268 main/binary-amd64/Packages
+ 980be91f72fe99071a24804d9236dfdbd8b51ad51c296516f9d7da3c72479c4c            10968 main/binary-amd64/Packages.gz
+SHA512:
+ dbc5ece636c095d568a19058a458842956abb804b59e2c9d83e3aa598a135c1f3bf8ef58cf368486012285cde9d552eadd6a98d1cf63f257872ff2f94dd3ab36              174 Release
+ db4a2a5d8cb7cdb676651108f240461833dab33ce1d0e7ed06e4b37fbea233c72fd48744529e47259c8d1fda0ca32ea7c8c06c982ae6562cabe1d6a921175b49            30268 main/binary-amd64/Packages
+ e2cf9d70cd7d61b621575decbd34a2b21cc3a176a825d89f17ef48389c80c2426866b6a8e40580e3d2cfc64f0c9d622b0d444ebfef15761359c47bdecac01e5d            10968 main/binary-amd64/Packages.gz

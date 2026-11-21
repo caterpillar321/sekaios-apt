@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64 all
+Codename: hatsune
+Components: main
+Date: Sat, 21 Nov 2026 13:52:58 +0000
+Description: SekaiOS packages
+Label: SekaiOS
+Origin: SekaiOS
+Suite: hatsune
+MD5Sum:
+ 916558012c7524e681ef83549033089a              174 Release
+ 19ce31459018967eb6f9955c7c9dd040            30326 main/binary-amd64/Packages
+ d5dbfd0335a80f53fa7105c211e025bc            10971 main/binary-amd64/Packages.gz
+SHA1:
+ 8e8d4a48760b7b7e443934b9c862e19fea052b2d              174 Release
+ c0b32399f870dd56c3aee3382c5c42022a4ade5c            30326 main/binary-amd64/Packages
+ 9beb49a7be19d583cc52b3f44e9501c22d7563eb            10971 main/binary-amd64/Packages.gz
+SHA256:
+ 2c4c499ab9586ab09576f184a6fa630ec1e3b746f4b2d7f6cc51e9d3ba23589b              174 Release
+ ff76fa4389ea31193438a29d9a4e91cb6b068a5a4c6367d14ac6ebfa3b4ca577            30326 main/binary-amd64/Packages
+ f710fdc510fa25955331e55d8a5777e31c58525269ef4e5af889ce57862f379b            10971 main/binary-amd64/Packages.gz
+SHA512:
+ dcc93d1b199f19d3e60895e50ed1821a6af0db132c1ca61e7b4d17b637fa210f3fea74dc21cd394c1f77bb9e2f017f78485340aaae02f78e3da5ab3acec1ef6b              174 Release
+ 9eaec3f30ddcae96e2eca5c9797c6bfd6953babfce741c03eae959326ae26da510a221c2152b47438f91a8099499caf44ce2d06786aa3f1ffead02b169a9e07c            30326 main/binary-amd64/Packages
+ 69b484973438d02c3e8f0cfe3390d11ec0b450c1dff162ae2d106c882ac78e1ddd48365f3360c1a2ddf3d16e7eab9cf14ca236e0fd713332a567984255d96741            10971 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQRw5//zsRhfrnEzLzDLaPu9ihA5HgUCawGiOgAKCRDLaPu9ihA5
+HsK3AP9IBjEqfS51aVxEyjKA1LGDWzq3wkQSO0qUItqfbng/MAD/WU0EBcj3qJVD
+WUYa5MF7p8DNx6WRnMjQTjN+b5F8hgA=
+=FUB3
+-----END PGP SIGNATURE-----
